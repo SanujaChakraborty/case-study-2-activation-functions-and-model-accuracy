@@ -10,11 +10,12 @@ The goal of this study is to explore different activation functions used in neur
 ---
 
 ## Repository Structure
+```
 /ppt/     → Presentation (Case Study 2 PPT)
 /code/    → Notebook comparing activation functions
 /data/    → Sample dataset used for demonstration
 README.md → Summary of the case study
-
+```
 
 ---
 
